@@ -1,5 +1,5 @@
 # 🤠 About Me:
-📖 Student from SESI Moinho Joinville<br>💻 First Tech Challenge Programmer from #28782 Sunrise<br>📫 Contact: antonio_ribeiro-n@estudante.sesisenai.org.br<br><br>
+📖 Student from SESI Moinho Joinville<br>💻 First Tech Challenge Programmer from #28782 Sunrise<br>🌏 WorldSkills Competitor — Skill #23 Autonomous Mobile Robotics<br>📫 Contact: antonio_ribeiro-n@estudante.sesisenai.org.br<br><br>
 
 
 ## 🌐 Socials:
@@ -13,5 +13,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
