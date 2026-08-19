@@ -1,4 +1,4 @@
-# 🤠 About Me:
+# Hello! I'm Ribeiro
 📖 Student from SESI Moinho Joinville<br>💻 First Tech Challenge Programmer from #28782 Sunrise<br>🌏 WorldSkills Competitor — Skill #23 Autonomous Mobile Robotics<br>📫 Contact: antonio_ribeiro-n@estudante.sesisenai.org.br<br><br>
 
 
